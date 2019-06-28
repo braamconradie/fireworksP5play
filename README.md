@@ -1,2 +1,3 @@
-# fireworksP5play
-Learning p5.play and fireworks
+This is just before I tried to introduce p5.play
+
+Fireworks exploding into spquares...
