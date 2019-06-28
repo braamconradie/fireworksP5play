@@ -1,3 +1,1 @@
-This is just before I tried to introduce p5.play
-
-Fireworks exploding into spquares...
+Allrighty, now I am getting better at the glitch update etc thingy dingy
